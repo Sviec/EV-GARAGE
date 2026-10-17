@@ -1,3 +1,5 @@
+> Устарело. Публикация описана в `docs/HOSTING_GUIDE.md`. Cloudflare больше не используется.
+
 # S7 — Деплой Cloudflare
 
 ## Цель
