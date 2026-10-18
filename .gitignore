@@ -8,3 +8,4 @@ data/photos
 .cursor
 .wrangler
 tsconfig.tsbuildinfo
+docs/
